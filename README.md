@@ -11,6 +11,7 @@ download binary file:
 - [ytdls_windows_386](https://github.com/ulvham/youtube_dl_server/releases/download/v1/ytdls_windows_386.exe)
 - [ytdls_windows_amd64](https://github.com/ulvham/youtube_dl_server/releases/download/v1/ytdls_windows_amd64.exe)
 
+[**more info...**](https://github.com/ulvham/youtube_dl_server/releases)
 
 Run:
 on Linux(on foreground)
